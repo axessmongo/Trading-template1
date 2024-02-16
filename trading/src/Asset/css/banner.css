@@ -1,0 +1,15 @@
+.rupees{
+    background-image: url(../image/rupees.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rupeediv{
+    background-color: rgba(0, 0, 0, 0.449);
+    color: white;   
+}
+.card{
+     background-color: rgba(135, 135, 164, 0.055);
+     color: aliceblue;
+     border: none;
+}
