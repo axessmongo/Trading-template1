@@ -1,15 +1,92 @@
+
 .rupees{
     background-image: url(../image/rupees.jpg);
     background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
 }
+.nav-link:hover {
+    color: sandybrown !important;
+  }
 .rupeediv{
     background-color: rgba(0, 0, 0, 0.449);
-    color: white;   
+    color: #4CB9E7; 
+      
 }
-.card{
-     background-color: rgba(135, 135, 164, 0.055);
-     color: aliceblue;
-     border: none;
+.rupe{
+   background-color: rgba(144, 144, 228, 0.055); 
+  color:#4CB9E7;
+  border: none;
+  padding: 40px;
+  margin: 20px;
+  
 }
+
+.indian{
+    background-color: #FFECD6;
+    color: #0F2167;
+}
+
+.accordion{
+        max-width: 800px; 
+        margin: 0 auto;
+    
+}
+.hedge{
+    height: 80vh;
+    background-image: url(../image/hedge.png);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hedgediv{
+    color: #4CB9E7;   
+}
+
+.hedge h1{
+    font-size: 2.5em; 
+    color: #4CB9E7;
+    font-weight: bold;
+}
+
+.hedge p {
+    font-size: 1.2em;
+    color: #4CB9E7;
+}
+
+.btn {
+    display: block; 
+    margin: 0 auto;
+    padding: 10px 20px; 
+    border-radius: 5px;
+    background-color: #007bff; 
+    color: #fff; 
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+ 
+  .btn:hover {
+    background-color: #0056b3; 
+  }
+
+  .power{
+    height: 80vh;
+    background-image: url(../image/power.png);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #4CB9E7;
+  }
+  .newFeatures{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .newFeatures img{
+        width: 70%;
+        height: 600px;
+  }
+
